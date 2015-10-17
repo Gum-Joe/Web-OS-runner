@@ -1,2 +1,1 @@
-# Web-OS-runner
-C++ module for running web-apps
+Module for running web-apps in a web-os tub
